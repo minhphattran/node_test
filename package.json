@@ -1,0 +1,14 @@
+{
+  "name": "project-13-1-done",
+  "version": "1.0.0",
+  "main": "art.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inline-css": "^4.0.2"
+  }
+}
